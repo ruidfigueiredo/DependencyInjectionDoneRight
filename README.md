@@ -4,6 +4,6 @@ This project is an example of how you can have dependency injection set up in a 
 
 The IoC container used in this example was StructureMap.
 
-Full description [here](http://www.blinkingcaret.com)
+Full description [here](http://www.blinkingcaret.com/2016/02/03/dependency-injection-without-referencing-implementations)
 
 
